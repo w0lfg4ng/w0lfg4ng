@@ -5,7 +5,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width = "40" height = "40"/>
 
-<img src="https://64.media.tumblr.com/24a4e17f20ad62e913366d9b8070e4b2/840ea19670d968ce-f9/s400x600/629aaeddb5fc7396530e8bf7455588842a15137c.gifv" width="80" height="120">
+<a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
 
           
           
