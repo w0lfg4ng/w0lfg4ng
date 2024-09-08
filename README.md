@@ -1,6 +1,4 @@
 ## H0WDY !!
 
 ## L34RN1NG:
-<i class="devicon-arduino-plain-wordmark" width="40" height="40"></i>
-<i class="devicon-python-plain" width="40" height="40"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>
