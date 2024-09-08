@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=W3LC0M3+T0+W0LFG4NG'5+P4G3;TURM1NH4+D0+D1D1+XD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=W3LC0M3+T0+W0LFG4NG'5+P4G3;TURM1NH4+D0+D1D1+😂🤣)](https://git.io/typing-svg)
 
 ## H0WDY !!
 
