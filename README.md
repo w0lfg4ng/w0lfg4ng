@@ -9,7 +9,9 @@
 <div>
           <a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w0lfg4ng&repo=Turminha-do-Didi-&theme=dark" />
-                    <img align="center" src="https://github.com/w0lfg4ng/WEBDEV&theme=dark"/>
+          </a>
+          <a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
+          <img align="center" src="https://github.com/w0lfg4ng/WEBDEV&theme=dark"/>
           </a>
 </div>
           
