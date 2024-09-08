@@ -1,4 +1,6 @@
 ## H0WDY !!
+
+L34RN1NG TH353
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>
 
 <div>
