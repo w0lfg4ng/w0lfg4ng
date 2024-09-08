@@ -4,8 +4,8 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width = "40" height = "40"/>
+<div><h2 align = "left">TH15 15 MY F1RST 4CC0UNT !! T4K3 4 L00K 4T MY W0RK5</h2></div>
 
-<h3 align = "left">TH15 15 MY F1RST 4CC0UNT !! T4K3 4 L00K 4T MY W0RK5</>
 <div>
           <a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w0lfg4ng&repo=Turminha-do-Didi-&theme=dark" />
