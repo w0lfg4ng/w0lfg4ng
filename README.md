@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=W3LC0M3+T0+W0LFG4NG'5+P4G3;TURM1NH4+D0+D1D1+😂🤣)](https://git.io/typing-svg)
 
-#
+
 <div><h3 align = "left">TH4T'5 4LL 1 KN0W</h3></div>
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>
