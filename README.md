@@ -5,7 +5,8 @@
 #
 <h3 align = "left">TH4T'5 4LL 1 KN0W</h3>
 <div>
-          <p>These are the languages I am learning and speciallizing myself about (there is also ASM 8051 but I couldn't find the icon)</p>
+          <p>These are the languages I am learning and speciallizing myself about 
+                    (there is also ASM 8051 but I couldn't find the icon)</p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/>
