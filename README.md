@@ -16,6 +16,7 @@
 #
 <div>
           <h2 align = "left">TH15 15 MY F1RST 4CC0UNT !! T4K3 4 L00K 4T MY W0RK5</h2>
+          <p>The projects below are the most important projects I've worked for</p>
           <a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
           <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=w0lfg4ng&repo=Turminha-do-Didi-&theme=dark" />
           </a>
