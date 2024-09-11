@@ -10,7 +10,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width = "40" height = "40"/>
 </div>
 
-<div><h2 align = "left">TH15 15 MY F1RST 4CC0UNT !! T4K3 4 L00K 4T MY W0RK5</h2></div>
+<h2 align = "left">TH15 15 MY F1RST 4CC0UNT !! T4K3 4 L00K 4T MY W0RK5</h2>
 
 <div>
           <a href = "https://github.com/w0lfg4ng/Turminha-do-Didi-">
