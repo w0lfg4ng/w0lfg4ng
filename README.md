@@ -1,8 +1,5 @@
 <a align = "center" href ="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EFF00&width=435&lines=W3LC0M3 T0 W0LFG4NG's;TURM1NH4 D0 D1D1😂🤣" alt="Typing SVG" /></a>
-
 #
-<img align="center" src="https://i.pinimg.com/564x/1f/56/38/1f56389146ca37cf2eb3c03ace0e6f21.jpg"/>
-
 <h3 align ="left">5K1LL5:</h3>
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>
