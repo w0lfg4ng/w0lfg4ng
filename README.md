@@ -4,7 +4,7 @@
 
 #
 <h3 align = "left">TH4T'5 4LL 1 KN0W</h3>
-<img align="right" alt="gif" height="190px  = "https://i.pinimg.com/originals/b7/1d/d5/b71dd5abd140d26b161da64534e76408.gif"/>
+<img align="right" alt="gif" height="190px src= "https://i.pinimg.com/originals/b7/1d/d5/b71dd5abd140d26b161da64534e76408.gif"/>
 <div align="right">
           <p>I am learning and speciallizing myself about 
                     (there is also learning ASM 8051 but I couldn't find the icon bc this sh is old af)</p>
