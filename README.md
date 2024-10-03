@@ -21,13 +21,17 @@
           <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=w0lfg4ng&repo=Turminha-do-Didi-&theme=dark" />
 </a>
 </div>
-
-
-
-          
+#     
 
 <div>
 <a href="https://github.com/w0lfg4ng">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0lfg4ng&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=w0lfg4ng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align = "center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0lfg4ng&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudahjesus/w0lfg4ng/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudahjesus/w0lfg4ng/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w0lg4ng/w0lfg4ng/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
